@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "IMSM <typeout> 2019"
-eventDate: "September - November, 2014"
+eventDate: "March 13-15, 2019"
 typeoutTextValues: '"", "Image-based", "Modeling", "Simulation", "Morphogenesis"'
 typeoutFallback: "  "
 heroButtons:
